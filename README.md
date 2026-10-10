@@ -229,6 +229,21 @@ Blade Layout
 
 ![Blade Layout](screenshots/layout.png)
 
+VS Code Project
+
+![VS Code Project](screenshots/vscode-project.png)
+
+Laravel Folder Structure
+
+![Folder Structure](screenshots/folder-structure.png)
+
+GitHub Repository
+
+![GitHub Repository](screenshots/github-repo.png)
+
+Browser Output
+
+![Browser Output](screenshots/browser-output.png)
 
 10. Problems Encountered
 
