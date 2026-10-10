@@ -69,6 +69,10 @@ Blade View
 Response to Browser
 ```
 
+Architecture diagram
+
+![Architecture Diagram](documentation/architecture-diagram.png)
+
 The architecture diagram image is saved in the documentation/ folder.
 
 
